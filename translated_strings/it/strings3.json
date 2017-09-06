@@ -1,0 +1,23 @@
+{
+    "end": "Fine",
+    "enterName": "Inserisci il nome",
+    "cancel": "Annulla",
+    "addSegment": "Aggiungi un nuovo segmento",
+    "quickAdd": "Aggiunta rapida",
+    "createSegments": "Crea segmenti",
+    "finish": "Termina",
+    "editSegments": "Modifica segmenti",
+    "profilePicture": "Immagine del profilo",
+    "noNameEntered": "Non \u00e8 stato inserito un nome",
+    "options": "Opzioni",
+    "goToEvent": "Vai all'evento",
+    "allSegmentsNamed": "Verifica di aver nominato tutti i segmenti.",
+    "disableHelp": "Disattiva la guida",
+    "start": "Inizio",
+    "areYouSure": "Vuoi annullare?",
+    "noEventsFound": "Nessun evento trovato",
+    "segmentModalTitle": "Modifica i segmenti della prestazione",
+    "segmentName": "Nome del segmento",
+    "unsavedSegments": "Sono ancora presenti segmenti non salvati.",
+    "locality": "Localit\u00e0"
+}

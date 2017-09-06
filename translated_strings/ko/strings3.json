@@ -1,0 +1,23 @@
+{
+    "end": "\ub05d",
+    "enterName": "\uc774\ub984 \uc785\ub825",
+    "cancel": "\ucde8\uc18c",
+    "addSegment": "\uc0c8 \ud56d\ubaa9 \ucd94\uac00",
+    "quickAdd": "\ube60\ub978 \ucd94\uac00",
+    "createSegments": "\ud56d\ubaa9 \uc0dd\uc131",
+    "finish": "\uc644\ub8cc",
+    "editSegments": "\ud56d\ubaa9 \ud3b8\uc9d1",
+    "profilePicture": "\ud504\ub85c\ud544 \uc0ac\uc9c4",
+    "noNameEntered": "\uc785\ub825\ub41c \uc774\ub984 \uc5c6\uc74c",
+    "options": "\uc635\uc158",
+    "goToEvent": "\uc774\ubca4\ud2b8\ub85c \uc774\ub3d9",
+    "allSegmentsNamed": "\ubaa8\ub4e0 \ud56d\ubaa9\uc5d0 \uc774\ub984\uc744 \uc9c0\uc815\ud558\uc138\uc694.",
+    "disableHelp": "\ub3c4\uc6c0\ub9d0 \ube44\ud65c\uc131\ud654",
+    "start": "\uc2dc\uc791",
+    "areYouSure": "\ucde8\uc18c\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?",
+    "noEventsFound": "\uc774\ubca4\ud2b8 \uc5c6\uc74c",
+    "segmentModalTitle": "\ud37c\ud3ec\uba3c\uc2a4 \ud56d\ubaa9 \ud3b8\uc9d1",
+    "segmentName": "\ud56d\ubaa9 \uc774\ub984",
+    "unsavedSegments": "\uc800\uc7a5\ub418\uc9c0 \uc54a\uc740 \ud56d\ubaa9\uc774 \uc788\uc2b5\ub2c8\ub2e4.",
+    "locality": "\uc9c0\uc5ed\uc131"
+}

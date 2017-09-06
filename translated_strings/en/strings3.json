@@ -1,0 +1,23 @@
+{
+    "end": "End",
+    "enterName": "Enter Name",
+    "cancel": "Cancel",
+    "addSegment": "Add a new segment",
+    "quickAdd": "Quick Add",
+    "createSegments": "Create Segments",
+    "finish": "Finish",
+    "editSegments": "Edit Segments",
+    "profilePicture": "Profile Picture",
+    "noNameEntered": "No name entered",
+    "options": "Options",
+    "goToEvent": "Go to Event",
+    "allSegmentsNamed": "Please ensure all segments are named.",
+    "disableHelp": "Disable Help",
+    "start": "Start",
+    "areYouSure": "Are you sure you want to cancel?",
+    "noEventsFound": "No Events Found",
+    "segmentModalTitle": "Edit Performance Segments",
+    "segmentName": "Segment Name",
+    "unsavedSegments": "There are still unsaved segments.",
+    "locality": "Locality"
+}

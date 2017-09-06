@@ -1,0 +1,23 @@
+{
+    "end": "Ende",
+    "enterName": "Namen eingeben",
+    "cancel": "Abbrechen",
+    "addSegment": "Neues Segment hinzuf\u00fcgen",
+    "quickAdd": "QuickAdd-Funktion",
+    "createSegments": "Segmente erstellen",
+    "finish": "Beenden",
+    "editSegments": "Segmente bearbeiten",
+    "profilePicture": "Profilbild",
+    "noNameEntered": "Kein Name eingegeben",
+    "options": "Optionen",
+    "goToEvent": "Gehe zu Ereignis",
+    "allSegmentsNamed": "Bitte stelle sicher, dass alle Segmente benannt wurden.",
+    "disableHelp": "Hilfe deaktivieren",
+    "start": "Anfang",
+    "areYouSure": "Vorgang wirklich abbrechen?",
+    "noEventsFound": "Keine Sportereignisse gefunden",
+    "segmentModalTitle": "Leistungssegmente bearbeiten",
+    "segmentName": "Segmentname",
+    "unsavedSegments": "Es sind noch ungespeicherte Segmente vorhanden.",
+    "locality": "Ort"
+}

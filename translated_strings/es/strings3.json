@@ -1,0 +1,23 @@
+{
+    "end": "Final",
+    "enterName": "Introducir nombre",
+    "cancel": "Cancelar",
+    "addSegment": "A\u00f1adir un nuevo segmento",
+    "quickAdd": "A\u00f1adir r\u00e1pido",
+    "createSegments": "Crear segmentos",
+    "finish": "Terminar",
+    "editSegments": "Editar segmentos",
+    "profilePicture": "Imagen de perfil",
+    "noNameEntered": "No se ha introducido ning\u00fan nombre",
+    "options": "Opciones",
+    "goToEvent": "Ir al evento",
+    "allSegmentsNamed": "Aseg\u00farate de nombrar todos los segmentos.",
+    "disableHelp": "Desactivar la ayuda",
+    "start": "Comienzo",
+    "areYouSure": "\u00bfSeguro que quieres cancelar?",
+    "noEventsFound": "No hay ning\u00fan evento",
+    "segmentModalTitle": "Editar segmentos de rendimiento",
+    "segmentName": "Nombre del segmento",
+    "unsavedSegments": "A\u00fan hay segmentos sin guardar.",
+    "locality": "Localidad"
+}

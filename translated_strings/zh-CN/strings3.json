@@ -1,0 +1,23 @@
+{
+    "end": "\u7ed3\u675f",
+    "enterName": "\u8f93\u5165\u540d\u79f0",
+    "cancel": "\u53d6\u6d88",
+    "addSegment": "\u6dfb\u52a0\u65b0\u7684\u5206\u6bb5",
+    "quickAdd": "\u5feb\u901f\u6dfb\u52a0",
+    "createSegments": "\u521b\u5efa\u5206\u6bb5",
+    "finish": "\u5b8c\u6210",
+    "editSegments": "\u7f16\u8f91\u5206\u6bb5",
+    "profilePicture": "\u4e2a\u4eba\u5934\u50cf",
+    "noNameEntered": "\u6ca1\u6709\u8f93\u5165\u540d\u79f0",
+    "options": "\u9009\u9879",
+    "goToEvent": "\u524d\u5f80\u4e8b\u4ef6",
+    "allSegmentsNamed": "\u8bf7\u786e\u4fdd\u6240\u6709\u5206\u6bb5\u5747\u5df2\u547d\u540d\u3002",
+    "disableHelp": "\u7981\u7528\u5e2e\u52a9",
+    "start": "\u5f00\u59cb",
+    "areYouSure": "\u4f60\u786e\u5b9a\u8981\u53d6\u6d88\u5417\uff1f",
+    "noEventsFound": "\u672a\u627e\u5230\u4e8b\u4ef6",
+    "segmentModalTitle": "\u7f16\u8f91\u8868\u73b0\u5206\u6bb5",
+    "segmentName": "\u5206\u6bb5\u540d\u79f0",
+    "unsavedSegments": "\u4ecd\u6709\u672a\u4fdd\u5b58\u7684\u5206\u6bb5\u3002",
+    "locality": "\u4f4d\u7f6e"
+}

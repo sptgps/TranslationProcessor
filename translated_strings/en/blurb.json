@@ -1,0 +1,28 @@
+{
+    "blurb3": {
+        "feature1": "Inertial movement unit",
+        "feature2": "Bluetooth",
+        "feature3": "10Hz Device"
+    },
+    "blurb2": {
+        "header1": "Affordable contact sports GPS",
+        "header2": "For distribution enquiries"
+    },
+    "blurb.title": "Contact Sports GPS",
+    "blurb.para2": "We provide the ability to track, monitor and improve based on sports science at a cost that is affordable.",
+    "blurb.para3": "The professionals have been doing it for years, now it's your turn. SPT, the analytics tool that will give you the edge on everyone else.",
+    "blurb.subtitle": "The SPT Story",
+    "features.subtitle": "Sports science Based metrics:",
+    "blurb.para1": "SPT has been designed by athletes for athletes.",
+    "features.title": "GameTraka Features",
+    "features.metrics": [
+        "Speed",
+        "Distance",
+        "Running Zones",
+        "Intensity",
+        "Heatmaps",
+        "Interval Analysis",
+        "Team Comparison",
+        "Team Management"
+    ]
+}
