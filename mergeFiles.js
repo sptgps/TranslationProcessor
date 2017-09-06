@@ -1,13 +1,25 @@
 const fs = require('fs');
 
-const language_code = 'en'; // en, de, el, es, fr, it, ja, ko, pt-PT, zh-CN
+let language_code = 'en'; // en, de, el, es, fr, it, ja, ko, pt-PT, zh-CN
+
+process.argv.forEach((val, index) => {
+  // 
+  if (index === 2) {
+  	language_code_arr = ['en', 'de', 'el', 'es', 'fr', 'it', 'ja', 'ko', 'pt-PT', 'zh-CN'];
+  	if (language_code_arr.includes(val)) {
+  		language_code = val;
+  	} else {
+  		throw new Error('Unrecognised language!');
+  	}
+  }
+});
 
 const strings = require(`./translated_strings/${language_code}/strings`);
 const strings2 = require(`./translated_strings/${language_code}//strings2`);
 const strings3 = require(`./translated_strings/${language_code}//strings3`);
 const new_strings = require(`./translated_strings/${language_code}//new strings`);
 
-fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'{\n// strings\n', (err)=>{
+fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'{\n', (err)=>{
 	if (err) throw err;
 	// console.log('all_strings { is appended!');
 });
@@ -23,7 +35,7 @@ for (var key in strings) {
 }
 
 // strings2
-fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n// strings2\n', (err)=>{
+fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n', (err)=>{
 	if (err) throw err;
 	// console.log('all_strings { is appended!');
 });
@@ -39,7 +51,7 @@ for (var key in strings2) {
 }
 
 // strings3
-fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n// strings3\n', (err)=>{
+fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n', (err)=>{
 	if (err) throw err;
 	// console.log('all_strings { is appended!');
 });
@@ -55,7 +67,7 @@ for (var key in strings3) {
 }
 
 // new_strings
-fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n// new_strings\n', (err)=>{
+fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n', (err)=>{
 	if (err) throw err;
 	// console.log('all_strings { is appended!');
 });
