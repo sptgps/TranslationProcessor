@@ -14,9 +14,10 @@ process.argv.forEach((val, index) => {
 });
 
 const strings = require(`./translated_strings/${language_code}/strings`);
-const strings2 = require(`./translated_strings/${language_code}//strings2`);
-const strings3 = require(`./translated_strings/${language_code}//strings3`);
-const new_strings = require(`./translated_strings/${language_code}//new strings`);
+const strings2 = require(`./translated_strings/${language_code}/strings2`);
+const strings3 = require(`./translated_strings/${language_code}/strings3`);
+const new_strings = require(`./translated_strings/${language_code}/new strings`);
+const website_strings = require(`./translated_strings/${language_code}/website_strings`);
 
 fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'{\n', (err)=>{
 	if (err) throw err;
@@ -78,6 +79,22 @@ for (var key in new_strings) {
 			if (err) throw err;
 			// console.log('all_strings { is appended!');
 		});
+  }
+}
+
+// website_strings
+fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,'\n', (err)=>{
+  if (err) throw err;
+  // console.log('all_strings { is appended!');
+});
+
+for (var key in website_strings) {
+  if (website_strings.hasOwnProperty(key)) {
+    var websitestringToPrint = '"' + key + '"' + ': ' + '"' + website_strings[key] + '"' + ',\n';
+    fs.appendFile(`./translated_strings/${language_code}/all_strings.json`,websitestringToPrint, (err)=>{
+      if (err) throw err;
+      // console.log('all_strings { is appended!');
+    });
   }
 }
 
