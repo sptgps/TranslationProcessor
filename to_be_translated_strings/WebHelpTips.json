@@ -1,0 +1,15 @@
+{
+	"runningStats": "Running Stats",
+    "keyPerformanceIndicator": "Key Performance Indicator",
+    "totalDistanceTip": "Total Distance: number of kilometres travelled",
+    "hardRunningTip": "Hard Running: distance travelled 4.5 m/s or greater",
+    "topSpeedTip": "Top Speed: highest velocity reached",
+    "sprintEffortsTip": "Sprint Efforts: number of times velocity was above a specific threshold (based on athletic ability) for more than 1 second",
+    "totalTimeTip": "Time: total time of the performance (dependant on trimming)",
+    "walkJogRunTip": "Walk, Jog & Run: total distance categorised into activity type (based on athletic ability)",
+    "workRateTip": "Work Rate (m.min): total distance (m) travelled, relative to performance time (min) (dependant on trimming)",
+    "impactsTip": "Impacts: Moderate-Heavy (5.0-8.0 G Forces) / Heavy-Severe (+8.1 G Forces)",
+    "intensityTip": "Intensity: SPT's accumulative algorithm which factors frequency, magnitude and length of high velocity movements throughout the performance",
+    "loading": "Loading",
+    "impacts": "Impacts"
+}
