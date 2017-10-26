@@ -1,0 +1,15 @@
+{
+    "runningStats": "Laufstatistik",
+    "keyPerformanceIndicator": "Leistungskennzahl",
+    "totalDistanceTip": "Gesamtstrecke: Anzahl der zur\u00fcckgelegten Kilometer",
+    "hardRunningTip": "Schnelles Laufen: Strecke von 4,5 m\/s oder mehr",
+    "topSpeedTip": "H\u00f6chstgeschwingkeit: h\u00f6chste erreichte Geschwindigkeit",
+    "sprintEffortsTip": "Sprintanstrengungen: Anzahl der Male, bei denen die Geschwigkeit mehr als 1 Sekunde \u00fcber einer bestimmten Marke (basierend auf sportlicher F\u00e4higkeit) lag",
+    "totalTimeTip": "Zeit: Gesamtzeit der Leistung (abh\u00e4ngig vom Abschneiden)",
+    "walkJogRunTip": "Gehen, Joggen & Laufen: Gesamtstrecke nach Aktivit\u00e4tsart (basierend auf sportlicher F\u00e4higkeit)",
+    "workRateTip": "Richtsatz (m.min): Zur\u00fcckgelegte Gesamtstrecke (m), in Relation zur Leistungszeit (Min.), (abh\u00e4ngig vom Abschneiden)",
+    "impactsTip": "Aufpralle: Mittel-Schwer (5,0-8,0 G Kraft) \/ Schwer-\u00dcberm\u00e4\u00dfig (+8,1 G Kraft)",
+    "intensityTip": "Intensit\u00e4t: SPTs akkumulativer Algorithmus rechnet Frequenz, Ausma\u00df und l\u00e4nge von Bewegungen mit hoher Geschwindigkeit \u00fcber die Leistung hinweg aus.",
+    "loading": "Wird geladen",
+    "impacts": "Aufpralle"
+}

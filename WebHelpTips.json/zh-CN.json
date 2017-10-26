@@ -1,0 +1,15 @@
+{
+    "runningStats": "跑动状态",
+    "keyPerformanceIndicator": "关键表现指数",
+    "totalDistanceTip": "总距离：整个活动中的跑动距离",
+    "hardRunningTip": "高效跑动：以4.5米\/秒或者更快的速度跑动过的距离",
+    "topSpeedTip": "最高速：活动中到达过的最高速度",
+    "sprintEffortsTip": "冲刺数：速度超过一定的程度并且维持该速度超过1秒以上，被记作一次冲刺数",
+    "totalTimeTip": "总时间：整个活动的时长（与数据修剪有关）",
+    "walkJogRunTip": "慢走，慢跑，快跑：把总距离分割成三个类别（与运动员等级有关）",
+    "workRateTip": "工作效率（米.分）：总距离（米）除以总时长（分钟）得出的数值（与数据修剪有关）",
+    "impactsTip": "碰撞：中级-高级（5.0-8.0 G 重力加速度）\/ 高级-剧烈（+8.1 G 重力加速度）",
+    "intensityTip": "强度：SPT的独家叠加算法综合了整个活动中的频率，幅度以及高速跑动的距离",
+    "loading": "加载中",
+    "impacts": "碰撞"
+}

@@ -1,0 +1,15 @@
+{
+    "runningStats": "Stats de course",
+    "keyPerformanceIndicator": "Indicateur de performance cl\u00e9",
+    "totalDistanceTip": "Distance totale\u00a0: nombre de kilom\u00e8tres parcourus",
+    "hardRunningTip": "Course rapide et efficace\u00a0: distance parcourue 4,5 m\/s ou plus",
+    "topSpeedTip": "Vitesse totale\u00a0: plus haute v\u00e9locit\u00e9 atteinte",
+    "sprintEffortsTip": "Efforts de sprint\u00a0: nombre de fois o\u00f9 la v\u00e9locit\u00e9 a \u00e9t\u00e9 sup\u00e9rieure \u00e0 un seuil sp\u00e9cifique (bas\u00e9 sur l'habilit\u00e9 sportive) pendant plus d'1 seconde",
+    "totalTimeTip": "Temps\u00a0: temps total de la performance (d\u00e9pend des coupures)",
+    "walkJogRunTip": "Marche, footing et course\u00a0: distance totale cat\u00e9goris\u00e9e en type d'activit\u00e9 (bas\u00e9 sur l'habitilit\u00e9 sportive)",
+    "workRateTip": "Charge de travail (m.min)\u00a0: distance totale (m) parcourue, relative au temps de performance (min) (d\u00e9pend des coupures)",
+    "impactsTip": "Impacts\u00a0: moyens-forts (Forces G 5-8) \/ forts-tr\u00e8s forts (Forces G +8,1)",
+    "intensityTip": "Intensit\u00e9\u00a0: l'algorithme de cumul de SPT qui factorise la fr\u00e9quence, la magnitude et la longueur des mouvements en v\u00e9locit\u00e9 \u00e9lev\u00e9e au cours de la performance",
+    "loading": "Chargement",
+    "impacts": "Impacts"
+}

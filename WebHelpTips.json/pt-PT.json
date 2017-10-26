@@ -1,0 +1,15 @@
+{
+    "runningStats": "Estat\u00edsticas de corrida",
+    "keyPerformanceIndicator": "Indicador-chave de desempenho",
+    "totalDistanceTip": "Dist\u00e2ncia total: n\u00famero de quil\u00f3metros percorridos",
+    "hardRunningTip": "Corrida intensa: dist\u00e2ncia percorrida igual ou superior a 4,5 m\/seg",
+    "topSpeedTip": "Velocidade m\u00e1xima: velocidade mais elevada atingida",
+    "sprintEffortsTip": "Esfor\u00e7os de sprint: n\u00famero de vezes que a velocidade esteve acima de um limite espec\u00edfico (com base na capacidade atl\u00e9tica) durante mais de 1 segundo",
+    "totalTimeTip": "Tempo: tempo total do desempenho (conforme a condi\u00e7\u00e3o f\u00edsica)",
+    "walkJogRunTip": "Caminhada, corrida ligeira e corrida: dist\u00e2ncia total classificada por tipo de atividade (com base na capacidade atl\u00e9tica)",
+    "workRateTip": "Ritmo de trabalho (m\/min): dist\u00e2ncia total (m) percorrida relativamente ao tempo de desempenho (min) (conforme a condi\u00e7\u00e3o f\u00edsica)",
+    "impactsTip": "Impactos: moderado-alto (for\u00e7a 5,0-8,0 G)\/alto-extremo (for\u00e7a superior a 8,1 G)",
+    "intensityTip": "Intensidade: algoritmo acumulativo da SPT que considera a frequ\u00eancia, a magnitude e a extens\u00e3o dos movimentos de alta velocidade ao longo do desempenho",
+    "loading": "A carregar",
+    "impacts": "Impactos"
+}

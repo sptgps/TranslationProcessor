@@ -1,0 +1,15 @@
+{
+    "runningStats": "Statistiche corsa",
+    "keyPerformanceIndicator": "Indicatore chiave di prestazione",
+    "totalDistanceTip": "Distanza totale: numero di chilometri percorsi",
+    "hardRunningTip": "Corsa dura: distanza percorsa 4,5 m\/s o pi\u00f9",
+    "topSpeedTip": "Velocit\u00e0 massima: massima velocit\u00e0 raggiunta",
+    "sprintEffortsTip": "Sprint: numero di volte in cui la velocit\u00e0 \u00e8 andata oltre una soglia specifica (basata sulle capacit\u00e0 atletiche) per pi\u00f9 di 1 secondo",
+    "totalTimeTip": "Tempo: tempo totale della performance (in base alla modifica)",
+    "walkJogRunTip": "Camminata, jogging e corsa: distanza totale categorizzata in tipo di attivit\u00e0 (basato sulle capacit\u00e0 atletiche)",
+    "workRateTip": "Work rate (m.min): distanza totale (m) percorsa, relativa al tempo della performance (min) (in base alla modifica)",
+    "impactsTip": "Impatti: moderato-pesante (5.0-8.0 G Force) \/ pesante-grave (+8.1 G Force)",
+    "intensityTip": "Intensit\u00e0: algoritmo cumulativo di SPT i cui fattori sono frequenza, grandezza e lunghezza dei movimenti ad alta velocit\u00e0 durante la performance",
+    "loading": "Caricamento",
+    "impacts": "Impatti"
+}
