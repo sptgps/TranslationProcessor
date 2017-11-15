@@ -1,0 +1,18 @@
+{
+    "speed": "Velocidad",
+    "sprint": "Sprint",
+    "generateSegmentsMessage": "GameTraka analizar\u00e1 tu evento y su rendimiento para generar segmentos autom\u00e1ticamente. Una vez creado, podr\u00e1s eliminarlos o editarlos. \u00bfContinuar generando segmentos?",
+    "editEventSegments": "Editar segmentos de eventos",
+    "goingThroughChanges": "\u00a1LO SENTIMOS! Estamos realizando algunos cambios.",
+    "gettingUpgrade": "\u00a1GameTraka-com se va a actualizar!",
+    "goingThroughMaintenance": "GameTraka.com est\u00e1 en mantenimiento",
+    "downFrom": "Estaremos inactivos desde",
+    "to": "hasta",
+    "visitLiveDemoLink": "ENTRA AQU\u00cd PARA UNA DEMO GRATUITA",
+    "announcement": "Anuncio",
+    "teamsPlay": "Equipos para los que juego",
+    "teamsCoach": "Equipo a los que entreno",
+    "home": "En casa",
+    "away": "Fuera",
+    "unplugDevice": "Desconecta tu dispositivo y vuelve a conectarlo para que lo pueda detectar"
+}

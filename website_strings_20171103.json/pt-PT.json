@@ -1,0 +1,18 @@
+{
+    "speed": "Velocidade",
+    "sprint": "Sprint",
+    "generateSegmentsMessage": "O GameTraka analisa o teu evento e os respetivos desempenhos para criar segmentos automaticamente. Depois de serem criados, podes remover ou edit\u00e1-los. Pretendes continuar a criar segmentos?",
+    "editEventSegments": "Editar segmentos do evento",
+    "goingThroughChanges": "Pedimos desculpa, mas estamos a implementar algumas altera\u00e7\u00f5es de momento.",
+    "gettingUpgrade": "O GameTraka.com vai ser atualizado!",
+    "goingThroughMaintenance": "O GameTraka.com encontra-se em manuten\u00e7\u00e3o.",
+    "downFrom": "Vamos estar em baixo de",
+    "to": "a",
+    "visitLiveDemoLink": "ACEDE AQUI PARA UMA DEMONSTRA\u00c7\u00c3O AO VIVO",
+    "announcement": "An\u00fancio",
+    "teamsPlay": "Equipas em que jogo",
+    "teamsCoach": "Equipas que treino",
+    "home": "Casa",
+    "away": "Fora",
+    "unplugDevice": "Desliga o teu dispositivo e volta a lig\u00e1-lo para que possa ser detetado por"
+}

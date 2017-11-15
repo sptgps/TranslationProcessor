@@ -1,0 +1,18 @@
+{
+    "speed": "Speed",
+    "sprint": "Sprint",
+    "generateSegmentsMessage": "GameTraka will analyse your event and it's performances to auto-generate segments. Once created, you can still remove or edit them. Continue to generate segments?",
+    "editEventSegments": "Edit Event Segments",
+    "goingThroughChanges": "SORRY! We're currently going through some changes.",
+    "gettingUpgrade": "GameTraka.com is getting an upgrade!",
+    "goingThroughMaintenance": "GameTraka.com is under maintenance.",
+    "downFrom": "We will be down from",
+    "to": "to",
+    "visitLiveDemoLink": "VISIT HERE FOR A LIVE DEMO",
+    "announcement": "Announcement",
+    "teamsPlay": "Teams I play for",
+    "teamsCoach": "Teams I coach",
+    "home": "Home",
+    "away": "Away",
+    "unplugDevice": "Unplug your device and plug it back in so it can be detected by"
+}

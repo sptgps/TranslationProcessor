@@ -1,0 +1,18 @@
+{
+    "speed": "Geschwindigkeit",
+    "sprint": "Sprint",
+    "generateSegmentsMessage": "GameTraka analysiert dein Event und die Leistungen, um automatisch Segmente zu erstellen. Sobald diese erstellt sind, kannst du sie immer noch entfernen oder bearbeiten. Mit der Erstellung der Segmente fortfahren?",
+    "editEventSegments": "Event-Segmente bearbeiten",
+    "goingThroughChanges": "ES TUT UNS LEID! Wir sind gerade dabei, \u00c4nderungen zu implementieren.",
+    "gettingUpgrade": "GamaTraka.com erh\u00e4lt ein Upgrade!",
+    "goingThroughMaintenance": "GameTraka.com wird gewartet.",
+    "downFrom": "Die Server werden heruntergefahren von",
+    "to": "bis",
+    "visitLiveDemoLink": "HIER KLICKEN, UM EINE LIVE-DEMO ZU ERHALTEN",
+    "announcement": "Ank\u00fcndigung",
+    "teamsPlay": "Teams f\u00fcr die ich spiele",
+    "teamsCoach": "Teams, die ich coache",
+    "home": "Zuhause",
+    "away": "Ausw\u00e4rts",
+    "unplugDevice": "Ger\u00e4t trennen und wieder einstecken, damit es erkannt werden kann von"
+}

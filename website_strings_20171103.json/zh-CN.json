@@ -1,0 +1,18 @@
+{
+    "speed": "速度",
+    "sprint": "冲刺",
+    "generateSegmentsMessage": "GameTraka会分析活动以及球员数据自动生成的数据片段。在数据片段被创建之后，您仍然可以继续编辑或者删除，您确定要继续生成数据片段吗？",
+    "editEventSegments": "编辑活动的数据片段",
+    "goingThroughChanges": "对不起！我们正在进行一些修改。",
+    "gettingUpgrade": "GameTraka.com正在升级中！",
+    "goingThroughMaintenance": "GameTraka.com正在维护中。",
+    "downFrom": "我们的停机从",
+    "to": "到",
+    "visitLiveDemoLink": "点击这里，查看在线演示",
+    "announcement": "声明",
+    "teamsPlay": "我所在的队伍",
+    "teamsCoach": "我所管理的队伍",
+    "home": "主场",
+    "away": "客场",
+    "unplugDevice": "拔出您的设备，然后再次插入您的设备，这样您的设备有可能被以下软件识别 - "
+}
