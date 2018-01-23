@@ -1,0 +1,5 @@
+{
+	explosiveEfforts: "폭발적인 노력",
+	explosiveEffortsTip: "운동 선수가 최대로 가속하거나 최대로 감속하는 총 횟수 (노력은 0.2 초 이상 지속되어야 함).",
+	velocity: "속도",
+}

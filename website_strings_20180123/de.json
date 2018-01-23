@@ -1,0 +1,5 @@
+{
+	explosiveEfforts: "Explosive Bemühungen",
+	explosiveEffortsTip: "Die Gesamtzahl, wie oft ein Athlet maximal beschleunigt und / oder maximal verzögert (Anstrengung muss länger als 0,2 Sekunden dauern).",
+	velocity: "Geschwindigkeit",
+}

@@ -1,0 +1,5 @@
+{
+	explosiveEfforts: "爆炸性的努力",
+	explosiveEffortsTip: "运动员最大加速和/或最大减速的次数（努力必须持续超过0.2秒）。",
+	velocity: "速度",
+}

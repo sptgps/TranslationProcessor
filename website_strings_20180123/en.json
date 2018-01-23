@@ -1,0 +1,5 @@
+{
+	explosiveEfforts: "Efforts explosifs",
+	explosiveEffortsTip: "Le nombre total de fois où un athlète accélère et / ou décélère au maximum (l'effort doit durer plus de 0,2 seconde).",
+	velocity: "Rapidité",
+}
